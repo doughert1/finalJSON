@@ -29,6 +29,8 @@ public class ParseEXPT
     boolean quote = true;
     Vector<Object> vec;
     Hashtable hash;
+    
+    Object full;
     while (json.length() > i)
       {
         ind = json.charAt(i);
