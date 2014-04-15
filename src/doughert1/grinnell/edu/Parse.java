@@ -10,17 +10,22 @@ public class Parse
   {
     Vector<Object> vec = new Vector<Object>();
     vec.add(parse(str));
+    //STUB
+    return null;
  
   }//vec(String)
 
   public Hashtable hash(String str)
   {
+    //STUB
+    return null;
 
   }//hash(String)
   
   public String quote(String str)
   {
-    
+   //STUB
+    return null;
   }//quote(String)
   
   
